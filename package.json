@@ -1,0 +1,50 @@
+{
+  "name": "aistandards-directory",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A directory of standards for the agentic era",
+  "author": "Sandrino Di Mattia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandrinodimattia/aistandards-directory"
+  },
+  "homepage": "https://aistandards.directory",
+  "keywords": [
+    "ai",
+    "mcp",
+    "a2a",
+    "ap2",
+    "a2a-x402",
+    "aa",
+    "acp",
+    "agent-client-protocol",
+    "agents.json",
+    "llms.txt",
+    "xaa"
+  ],
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "geist": "^1.5.1",
+    "next": "15.5.3",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^20.19.17",
+    "@types/react": "^19.1.13",
+    "@types/react-dom": "^19.1.9",
+    "@types/three": "^0.180.0",
+    "eslint": "^9.35.0",
+    "eslint-config-next": "15.5.3",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2"
+  }
+}
