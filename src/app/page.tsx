@@ -26,7 +26,7 @@ export default function Home() {
             </h1>
             <p className="mx-auto max-w-2xl text-base text-neutral-600 sm:text-lg">
               Discover the emerging standards and protocols which will define
-              how we build, integrate and connect agentic AI workloads.
+              how we build and connect agentic AI workloads.
             </p>
           </div>
         </div>
