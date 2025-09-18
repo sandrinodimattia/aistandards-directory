@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'AI Standards Directory: Protocols and Standards for the Agentic Era',
+  title: 'aistandards.directory: Protocols and Standards for the Agentic Era',
   description:
     'Discover the emerging protocols and standards which will define how we build and connect agentic AI workloads.',
   openGraph: {
