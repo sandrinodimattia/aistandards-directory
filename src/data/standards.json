@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Model Context Protocol",
+    "description": "Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you’re building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.",
+    "acronym": "MCP",
+    "logoUrl": "/logos/mcp.png",
+    "link": "https://modelcontextprotocol.io/"
+  },
+  {
+    "title": "Agent2Agent Protocol",
+    "description": "The Agent2Agent (A2A) Protocol is an open standard developed by Google and donated to the Linux Foundation designed to enable seamless communication and collaboration between AI agents.",
+    "acronym": "A2A",
+    "logoUrl": "/logos/a2a-logo-black.svg",
+    "link": "https://a2a-protocol.org/"
+  },
+  {
+    "title": "Agent Payments Protocol",
+    "description": "Agent Payments Protocol (AP2) is an open protocol for the emerging Agent Economy. It's designed to enable secure, reliable, and interoperable agent commerce for developers, merchants, and the payments industry. The protocol is available as an extension for the open-source Agent2Agent (A2A) protocol, with more integrations in progress.",
+    "acronym": "AP2",
+    "logoUrl": "/logos/ap2-logo-black.svg",
+    "link": "https://ap2-protocol.org/"
+  },
+  {
+    "title": "x402 Extension for the Agent2Agent Protocol",
+    "description": "The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling agents to monetize their services through on-chain payments. This extension revives the spirit of HTTP 402 \"Payment Required\" for the decentralized agent ecosystem.",
+    "acronym": "A2A-x402",
+    "logoUrl": "/logos/a2a-logo-black.svg",
+    "link": "https://github.com/google-agentic-commerce/a2a-x402"
+  },
+  {
+    "title": "Cross App Access (Identity Assertion Authorization Grant)",
+    "description": "Cross App Access (XAA) lets enterprises enable secure agent-to-app and app-to-app access with centralized IT oversight. Instead of scattered integrations and repeated logins, admins decide what connects, enforce security policies, and see exactly what's being accessed. This makes cross-app and cross-agent integrations seamless and scalable across the enterprise.",
+    "acronym": "XAA",
+    "link": "https://datatracker.ietf.org/doc/draft-parecki-oauth-identity-assertion-authz-grant/"
+  },
+  {
+    "title": "Agent Communication Protocol",
+    "description": "The Agent Communication Protocol (ACP) is an open protocol for agent interoperability that solves the growing challenge of connecting AI agents, applications, and humans.",
+    "acronym": "ACP",
+    "link": "https://agentcommunicationprotocol.dev/",
+    "status": "ACP is now part of A2A under the Linux Foundation"
+  },
+  {
+    "title": "Agent Client Protocol",
+    "description": "The Agent Client Protocol standardizes communication between code editors (IDEs, text-editors, etc.) and coding agents (programs that use generative AI to autonomously modify code).",
+    "acronym": "ACP",
+    "logoUrl": "/logos/acp.svg",
+    "link": "https://agentclientprotocol.com/"
+  },
+  {
+    "title": "AGENTS.md",
+    "description": "AGENTS.md is a simple, open companion to README.md that gives coding agents a predictable, machine-readable place for project guidance (setup commands, test workflows, code style, and PR conventions) reducing README noise. Adopted by 20k+ GitHub repos and portable across tools like Cursor, Aider, RooCode, Zed, and more.",
+    "link": "https://agents.md/"
+  },
+  {
+    "title": "agents.json",
+    "description": "agents.json is an open-source JSON specification that defines machine-readable contracts for API and AI agent interactions on top of OpenAPI. It adds LLM-optimized schemas and tool directives to turn multi-step API workflows into single, reliable actions, enforces stateless execution (orchestration by the calling agent), and requires minimal changes to existing APIs.",
+    "link": "https://docs.wild-card.ai/agentsjson/introduction"
+  },
+  {
+    "title": "llms.txt",
+    "description": "llms.txt is a standardized markdown file that gives LLMs concise, expert-level context and pointers to detailed docs, avoiding noisy HTML. It is human- and machine-readable in a precise format suitable for deterministic parsing (parsers/regex). Sites are encouraged to offer clean markdown versions of pages at the same URL with .md appended (or index.html.md for path URLs) to support reliable ingestion.",
+    "link": "https://llmstxt.org/"
+  }
+]
