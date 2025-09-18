@@ -8,7 +8,7 @@ export default function Home() {
     <div className="flex-1">
       <Head>
         <title>
-          aistandards.directory: Protocols and Standards for the Agentic Era
+          AI Standards Directory: Protocols and Standards for the Agentic Era
         </title>
       </Head>
       <section className="relative isolate overflow-hidden border-b border-neutral-200 bg-gradient-to-b from-white via-indigo-50/60 to-white text-neutral-900">
