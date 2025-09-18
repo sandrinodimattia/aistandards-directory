@@ -23,6 +23,9 @@
     "llms.txt",
     "xaa"
   ],
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
