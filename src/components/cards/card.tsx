@@ -41,7 +41,7 @@ export default function Card({
           {description}
         </p>
         {status && (
-          <div className="pt-1 inline-flex items-center gap-1 text-xs font-medium tracking-wide text-slate-600">
+          <div className="pt-1 inline-flex items-center gap-1 text-xs font-medium tracking-wide text-slate-600 mb-2">
             <span className="px-1.5 py-0.5 rounded bg-red-100 text-neutral-700 border border-red-200">
               {status}
             </span>
