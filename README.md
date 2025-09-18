@@ -1,6 +1,6 @@
 # aistandards.directory
 
-Discover the emerging standards and protocols which will define how we build and connect agentic AI workloads.
+Discover the emerging protocols and standards which will define how we build and connect agentic AI workloads.
 
 ## Getting Started
 
