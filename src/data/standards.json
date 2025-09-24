@@ -61,5 +61,12 @@
     "title": "llms.txt",
     "description": "llms.txt is a standardized markdown file that gives LLMs concise, expert-level context and pointers to detailed docs, avoiding noisy HTML. It is human- and machine-readable in a precise format suitable for deterministic parsing (parsers/regex). Sites are encouraged to offer clean markdown versions of pages at the same URL with .md appended (or index.html.md for path URLs) to support reliable ingestion.",
     "link": "https://llmstxt.org/"
+  },
+  {
+    "title": "Agent Commerce Kit",
+    "acronym": "ACK",
+    "logoUrl": "/logos/ack_logo.png",
+    "description": "Agent Commerce Kit (ACK) is an open-source toolkit that enables AI agents to securely participate in commerce through two protocols: ACK-ID for verifiable agent identity using W3C DIDs and VCs, and ACK-Pay for standardized agent-native payments across diverse settlement rails.",
+    "link": "https://www.agentcommercekit.com/"
   }
 ]
