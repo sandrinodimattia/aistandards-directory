@@ -41,6 +41,13 @@
     "status": "ACP is now part of A2A under the Linux Foundation"
   },
   {
+    "title": "Agent-User Interaction Protocol",
+    "description": "AG-UI is a lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables seamless integration between AI agents, real time user context, and user interfaces.",
+    "acronym": "AG-UI",
+    "logoUrl": "/logos/ag-ui.png",
+    "link": "https://docs.ag-ui.com/"
+  },
+  {
     "title": "Agent Client Protocol",
     "description": "The Agent Client Protocol standardizes communication between code editors (IDEs, text-editors, etc.) and coding agents (programs that use generative AI to autonomously modify code).",
     "acronym": "ACP",
